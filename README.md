@@ -1,2 +1,2 @@
 # onjaki
-Projecdt Onjaki
+Project Onjaki
